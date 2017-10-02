@@ -1,2 +1,3 @@
 # hello-world
-første readme
+det her er meget nemt
+
